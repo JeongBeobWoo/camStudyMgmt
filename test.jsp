@@ -11,9 +11,7 @@
     </h1>
     <h2>
         Welcome to gitHub~!
-        ha~
-
-        ssssss
+     
     </h2>
 </body>
 </html>
