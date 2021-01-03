@@ -9,6 +9,9 @@
     <h1>
         Hello World!
     </h1>
+    <h2>
+        Welcome to gitHub~!
+    </h2>
 </body>
 </html>
 
